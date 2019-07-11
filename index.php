@@ -1,3 +1,3 @@
 <?php
-echo "Sajt u izradi"
+echo "Sajt u izradi";
 ?>
